@@ -1,5 +1,3 @@
-# Recommender-System
-
 
 ##Recommender System written in Java
 
